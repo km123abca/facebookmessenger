@@ -1,0 +1,37 @@
+.message {
+  padding: 10px;
+  margin: 10px;
+  /* width: fit-content; */
+  max-width: 70%;
+}
+.message__user {
+  margin-left: auto;
+  text-align: left !important;
+}
+.message__userCard {
+  background-color: #0b81ff !important;
+}
+.message__guestCard {
+  background-color: #e9e9eb !important;
+}
+
+.message__namedate {
+  /* border: 1px solid black; */
+  margin: 0px;
+  display: flex;
+}
+.message__nameblk {
+  margin-right: auto;
+  font-size: 10px;
+  font-weight: bold;
+}
+.message__dateblk {
+  margin-left: auto;
+  font-size: 10px;
+  font-weight: bold;
+}
+.message__Typography {
+  text-align: left;
+  font-size: 14px !important  ;
+  /* font-family: Arial, Helvetica, sans-serif !important; */
+}
